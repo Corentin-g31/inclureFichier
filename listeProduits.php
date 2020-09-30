@@ -1,4 +1,4 @@
-<?
+<?php
 $produits = array(
   array(
     'id' => 23,
@@ -38,3 +38,5 @@ $produits = array(
   ),
 
 );
+?>
+
